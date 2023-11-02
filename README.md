@@ -7,13 +7,19 @@ The data contains information about the website activity of users over one year.
 
 Overall, this project showcases my prowess in exploratory data analysis in uncovering valuable insights from large datasets and how I can leverage these insights to drive business success.
 
-Technologies and Dependencies: 
+Technologies and Dependencies: Python, AWS
 
-### Step 1: Extract the online shopping data from the cloud
+### Milestone 1: Extract the online shopping data from the cloud
 I create Python classes to extract online shopping data from a database in the cloud and get familirised with the data before moving on to performing data cleaning tasks and Exploratory Data Analysis. 
+#### Task 1: Initialise a class to extract the data
+##### Step 1: 
+Create a new Python script db_utils.py which will contain the code to extract the data from the database.
+##### Step 2: 
+Within the script create a new class called RDSDatabaseConnector. 
+This class will contain the methods which will be used to extract data from the RDS database.
 
-### Step 2: Exporatory Data Analysis
+### Milestone 2: Exporatory Data Analysis
 In this step, I perform Exploratory Data Analysis (EDA) on the online shopping data. I gain a deeper understadning of the data and identify any patterns which might exist. I also identify any issues such as missing or incorrectly formatted data. Then I apply statistical techniques to gain insight on the data's distribution and apply visualisation techniques to identofy patters or trends in the data.   
 
-### Step 3: Analysis and Visualisation
+### Milestone 3: Analysis and Visualisation
 Now the data has been transformed, I provide deeper insights from the data. I dive deeper into the dataset to identify any patterns or trends not visible by previous analysis. By gaining deeper insights, management can make more informed decisions about changes to the website and marketing strategies. 
